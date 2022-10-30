@@ -4,7 +4,7 @@
 
 - Use the session hash to authorize a user to perform actions
 
-## Introduction
+## Introduction.
 
 In this lab, we'll continue working on the blog site, and add some features that
 only logged in users have access to.
